@@ -1,0 +1,28 @@
+{
+  "name": "aurelius",
+  "displayName": "Aurelius",
+  "description": "Dark theme of the Stoics",
+  "version": "1.0.0",
+	"icon": "images/icon.png",
+  "publisher": "joeboylson",
+  "author": {
+    "name": "Joe Boylson",
+    "url": "https://github.com/joeboylson"
+  },
+  "repository": {
+		"url": "https://github.com/joeboylson/aurelius"
+	},
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "aurelius-theme",
+      "uiTheme": "vs-dark",
+      "path": "./themes/aurelius-dark.json"
+    }]
+  }
+}
