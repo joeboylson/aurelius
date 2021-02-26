@@ -20,7 +20,7 @@
   ],
   "contributes": {
     "themes": [{
-      "label": "aurelius-theme",
+      "label": "Aurelius Dark",
       "uiTheme": "vs-dark",
       "path": "./themes/aurelius-dark.json"
     }]
