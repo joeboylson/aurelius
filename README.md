@@ -1,23 +1,19 @@
-![andromeda-logotype](images/icon.png)
+# AURELIUS THEME
 
-<div align="center">
-  
-[![release](https://img.shields.io/github/release/joeboylson/aurelius.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/joeboylson/aurelius/releases/latest)  
+A dark theme with base monochromatic colors and vibrant colors.
 
-[![vscode](https://img.shields.io/badge/VS_Code-v1.53+-373277.svg?style=for-the-badge&logo=microsoft&logoColor=white&colorA=2b303b&colorB=7cb7ff)](https://code.visualstudio.com/updates/v1_53)  
+Meant to work well with fonts that contain italics and ligatures.
 
+Created By: Joe Boylson \
+e: joeboylson@gmail.com \
+g: https://github.com/joeboylson
 
-[![downloads](https://img.shields.io/visual-studio-marketplace/d/joeboylson.aurelius?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
+---
 
-[![rating](https://img.shields.io/visual-studio-marketplace/stars/EliverLara.andromeda?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
-
-</div>
-
-![andromeda-screenshot](images/andromeda.png)
+![general;](images/general.png)
 
 
-> **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
+![css;](images/css.png)
 
-## License
 
-[MIT](https://github.com/EliverLara/Andromeda/blob/master/LICENSE.md)
+![json;](images/json.png)
